@@ -1,0 +1,98 @@
+fileFormatVersion: 2
+guid: 94b4a6b368a38ff4997b293abb83b7ad
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: 13
+    compressionQuality: 50
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: 4
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Explosion-Sprite-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Explosion-Sprite-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Explosion-Sprite-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Explosion-Sprite-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Explosion-Sprite-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
